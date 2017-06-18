@@ -1,0 +1,21 @@
+{
+  "name": "zadanie7",
+  "version": "1.0.0",
+  "description": "package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "fs"
+  ],
+  "author": "kinga",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "stat-mode": "^0.2.2"
+  }
+}
